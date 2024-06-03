@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T11:36:49Z" name="Default suite" finished-at="2024-05-29T11:38:24Z" duration-ms="94955">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T11:36:49Z" name="Default test" finished-at="2024-05-29T11:38:24Z" duration-ms="94955">
+      <class name="org.master.AuditTemplate">
+        <test-method signature="createTemplate()[pri:0, instance:org.master.AuditTemplate@58326051]" started-at="2024-05-29T11:36:49Z" name="createTemplate" finished-at="2024-05-29T11:38:24Z" duration-ms="94896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTemplate -->
+      </class> <!-- org.master.AuditTemplate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
